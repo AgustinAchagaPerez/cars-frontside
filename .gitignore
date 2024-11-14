@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#packages
+package.json
+package-lock.json
+
+#desktop.ini
+desktop.ini
